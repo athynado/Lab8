@@ -12,7 +12,11 @@ number2 = 30
 total = number1 + number2
 print (total) 
 ```
-Picture of chart
+[﻿Picture of chart](https://app.eraser.io/workspace/7CqhoVYZSNOZEk4HqHP8?elements=LFToK2oM-vStpyRlQ9CSnA) 
+
+
+
+
 
 
 
